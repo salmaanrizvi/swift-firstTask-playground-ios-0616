@@ -16,7 +16,7 @@
 */
 // write your code here
 
-
+var bankBalance: Int = 5
 
 
 /*: question2
@@ -24,7 +24,7 @@
 */
 // write your code here
 
-
+let puppy = "Bella"
 
 
 /*: question3
@@ -32,7 +32,7 @@
 */
 // write your code here
 
-
+print(puppy)
 
 
 /*: question4
@@ -40,7 +40,7 @@
 */
 // write your code here
 
-
+print("I just got a new puppy named \(puppy)")
 
 
 /*: question5
@@ -48,7 +48,7 @@
 */
 // write your code here
 
-
+print("I have $\(bankBalance) in my bank account")
 
 
 /*: question6
@@ -56,15 +56,15 @@
 */
 // write your code here
 
-
-
+bankBalance += 100
+print("I now have $\(bankBalance) in my account. Yay me!")
 
 /*: question7
 ### 7. You decided you don't like the name Bella. Change your puppy's name to something else. (Can you do this? What happens when you try? Why?)
 */
 // write your code here
 
-
+var newPupName = "Ringo"
 
 
 //: [Solution](solution)
